@@ -1,7 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 27.9.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.2" baseProfile="tiny" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
-	 x="0px" y="0px" viewBox="0 0 1080 1080" overflow="visible" xml:space="preserve">
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.2" baseProfile="tiny" x="0px" y="0px" viewBox="0 0 1080 1080" overflow="visible" xml:space="preserve">
 <g>
 	<g>
 		<path fill="#F60007" d="M240.9,843.2L240.9,843.2c-59,0-106.9-47.9-106.9-106.9V236.4h0c59,0,106.9,47.9,106.9,106.9V843.2z"/>
@@ -10,8 +8,7 @@
 		<rect x="486.5" y="345.3" fill="#F60007" width="106.9" height="389"/>
 	</g>
 	<g>
-		<path fill="#F60007" d="M839.1,843.2L839.1,843.2l0-499.9c0-59,47.9-106.9,106.9-106.9h0v499.9C946,795.4,898.1,843.2,839.1,843.2
-			z"/>
+		<path fill="#F60007" d="M839.1,843.2L839.1,843.2l0-499.9c0-59,47.9-106.9,106.9-106.9h0v499.9C946,795.4,898.1,843.2,839.1,843.2    z"/>
 	</g>
 </g>
 </svg>
